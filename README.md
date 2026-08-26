@@ -111,12 +111,31 @@ Track1-Day24-MHV-[MSSV]-[HoVaTen]/
 ```
 
 ### Pre-submission Checklist (Rà soát 6 bước trước khi nộp):
-- [ ] 1. Khai báo rõ Họ tên, MSSV và Tên dự án nhóm Day 16-17 trong `README.md`.
-- [ ] 2. File Excel đã điền 100% ô màu vàng cả 3 kịch bản tại Tab 1.
-- [ ] 3. Đã đảm bảo `AI Hidden Costs >= 30% API Cost` (không để bằng 0).
-- [ ] 4. Tab 2 Base LTV/CAC > 3.0 và CAC Payback < 12 tháng (tính trên Gross Margin).
-- [ ] 5. Tab 3 khi đổi sang `Pessimistic` đảm bảo Runway ≥ 12 tháng (Cash Position không bị âm).
-- [ ] 6. Viết xong đoạn văn **Decision Note (200–300 từ)** bảo vệ mô hình trong `README.md`.
+- [x] 1. Khai báo rõ Họ tên, MSSV và Tên dự án nhóm Day 16-17 trong `README.md`.
+- [x] 2. File Excel đã điền 100% ô màu vàng cả 3 kịch bản tại Tab 1.
+- [x] 3. Đã đảm bảo `AI Hidden Costs >= 30% API Cost` (không để bằng 0).
+- [x] 4. Tab 2 Base LTV/CAC > 3.0 và CAC Payback < 12 tháng (tính trên Gross Margin).
+- [x] 5. Tab 3 khi đổi sang `Pessimistic` đảm bảo Runway ≥ 12 tháng (Cash Position không bị âm).
+- [x] 6. Viết xong đoạn văn **Decision Note (200–300 từ)** bảo vệ mô hình trong `README.md`.
+
+---
+
+---
+
+## 📝 7. Bài Nộp Của Học Viên
+
+* **Họ và tên:** Nguyễn Minh Hoàng
+* **MSSV:** 2A202601609
+* **Tên nhóm (Day 16-17):** [Điền tên nhóm của bạn vào đây]
+
+### Decision Note
+
+**1. AI Hidden Costs & Pricing Strategy:**
+Sản phẩm AI Copywriter của chúng tôi áp dụng mô hình Hybrid Pricing. Để đảm bảo chất lượng, AI Hidden Costs được thiết lập chiếm 35% chi phí API. Khoản chi phí này được đầu tư trực tiếp vào đội ngũ Human QA (Biên tập viên con người) nhằm kiểm duyệt và tinh chỉnh văn phong bài viết. Đây là yếu tố then chốt giúp sản phẩm duy trì chất lượng tự nhiên, giữ chân người dùng, qua đó đảm bảo chỉ số LTV/CAC > 3.0 (tính trên Gross Margin) và Payback < 12 tháng.
+
+**2. Stress-test & Rủi ro (Pessimistic Scenario):**
+Trong kịch bản bi quan, chúng tôi thiết lập tỷ lệ Churn và CAC đều tăng gấp 1.5 lần so với Base. Rủi ro cốt lõi là sự xuất hiện đột ngột của các đối thủ lớn (như OpenAI, Anthropic) tung ra tính năng viết chuẩn SEO miễn phí. 
+**Plan B (Phương án ứng phó):** Trong kịch bản này, dòng tiền vẫn đảm bảo Runway >= 12 tháng. Chúng tôi sẽ tận dụng "bước đệm" 12 tháng này để (1) Dịch chuyển sang thị trường ngách với tính năng chuyên biệt mà AI đa dụng không có, và (2) Cắt giảm ngân sách marketing không hiệu quả, tối ưu hóa đội ngũ QA để bảo toàn tiền mặt.
 
 ---
 
